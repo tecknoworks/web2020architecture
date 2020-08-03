@@ -9,7 +9,7 @@ $ 6.14.7
 
 MongoDB server version: **v4.4**
 
-# Run project
+# Run Project
 Use <code>npm start</code> on both api/client folders. In addition, the api can be started with <code>nodemon</code> in order so the application will restart each time a change is made.
 
 # Documentations
